@@ -1,6 +1,6 @@
 # Product Specification: Incident Reporting & Public Accountability Platform
 
-**Working title:** To be decided  
+**Working title:** Ngori Report 
 **Initial institutional client:** Police department (simulated for the MVP)  
 **Initial market:** Kenya  
 **Product stage:** MVP / hackathon prototype  
